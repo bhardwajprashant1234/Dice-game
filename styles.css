@@ -11,20 +11,20 @@
 }
 
 body {
-  background-color: #2d4770;
+  background-color: #0c64f1;
 }
 
 h1 {
-  margin: 30px;
+  margin:50px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 5px 0 #0048a7;
   font-size: 8rem;
-  color: #4eb1cc;
+  color: #0bec5a;
 }
 
 p {
-  font-size: 2rem;
-  color: #4ECCA3;
+  font-size: 4rem;
+  color: #160fee;
   font-family: 'Apple Chancery', cursive;
 }
 
@@ -34,7 +34,7 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #faeaea;
+  color: #20c5b5;
   text-align: center;
   font-family: 'Apple Chancery', cursive;
 
