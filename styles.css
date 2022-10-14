@@ -17,14 +17,14 @@ body {
 h1 {
   margin:50px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #0048a7;
+  text-shadow: 5px 0 #2a923c;
   font-size: 8rem;
-  color: #0bec5a;
+  color: #2d0bec;
 }
 
 p {
   font-size: 4rem;
-  color: #160fee;
+  color: #43a3c0;
   font-family: 'Apple Chancery', cursive;
 }
 
@@ -34,7 +34,7 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #20c5b5;
+  color: #c9c639;
   text-align: center;
   font-family: 'Apple Chancery', cursive;
 
