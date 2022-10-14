@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
@@ -10,30 +10,32 @@
 }
 
 body {
-  background-color: #721859;
+  background-color: #4596c2;
 }
 
 h1 {
-  margin: 50px;
-  font-family: "Lobster", cursive;
-  text-shadow: 5px 0 #c9ae34;
-  font-size: 8rem;
-  color: #f5101c;
+  margin: 40px;
+  font-family: "Lobster", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-shadow: 5px 5px 10px 5px black;
+  font-size: 10rem;
+  color: #d881c2;
 }
 
 p {
-  font-size: 4rem;
-  color: #80e788;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 5rem;
+  color: #e7c680;
+  font-family: "Lucida Console", "Courier New", Cambria, Cochin, Georgia, Times,
+    "Times New Roman", serif;
 }
 
 img {
-  width: 80%;
+  width: 70%;
 }
 
 footer {
   margin-top: 5%;
-  color: #c9c639;
+  color: #39c9bd;
   text-align: center;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Lucida Console", "Courier New", Arial, Helvetica, sans-serif;
 }
