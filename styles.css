@@ -1,5 +1,5 @@
 .container {
-  width: 80%;
+  width: 70%;
   margin: auto;
   text-align: center;
 }
@@ -7,35 +7,35 @@
 .dice {
   text-align: center;
   display: inline-block;
+
 }
 
 body {
-  background-color: #4596c2;
+  background-color: #393E46;
 }
 
 h1 {
-  margin: 40px;
-  font-family: "Lobster", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  text-shadow: 5px 5px 10px 5px black;
-  font-size: 10rem;
-  color: #d881c2;
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #1072f4;
+  font-size: 8rem;
+  color: #4ECCA3;
 }
 
 p {
-  font-size: 5rem;
-  color: #e7c680;
-  font-family: "Lucida Console", "Courier New", Cambria, Cochin, Georgia, Times,
-    "Times New Roman", serif;
+  font-size: 2rem;
+  color: #51e411;
+  font-family: 'Indie Flower', cursive;
 }
 
 img {
-  width: 70%;
+  width: 80%;
 }
 
 footer {
   margin-top: 5%;
-  color: #39c9bd;
+  color: #EEEEEE;
   text-align: center;
-  font-family: "Lucida Console", "Courier New", Arial, Helvetica, sans-serif;
+  font-family: 'Indie Flower', cursive;
+
 }
